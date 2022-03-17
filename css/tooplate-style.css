@@ -155,7 +155,7 @@ p {
 
 
 .banner {
-	background-image: url(../img/banner-bg.jpg);
+	background-image: url(../img/banner.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
@@ -796,7 +796,7 @@ footer p em {
 
 
 .page-heading {
-	background-image: url(../img/heading-bg.jpg);
+	background-image: url(../img/heading.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
